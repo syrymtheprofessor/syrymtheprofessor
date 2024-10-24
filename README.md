@@ -1,4 +1,4 @@
-## Hi there 👋 🇰🇿
+## Hi there 👋 
 
 <!--
 **syrymtheprofessor/syrymtheprofessor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JAVA/SPRING FRAMEWORK 
 - 🌱 I’m currently learning EVERYTHING 
-- 👯 I’m looking to collaborate on DEEP LEARNING AND AI-Engineering 🤖
+- 👯 I’m looking to collaborate on DEEP LEARNING AND AI-ENGINEERING/ROBOTICS 🤖 
 - 💬 Ask me about PHILOSOPHY📚, PSYCHOLOGY🧠, PHYSICS⚛ 
-- 📫 How to reach me: 🇰🇿 syrym.cappelo@gmail.com
+- 📫 How to reach me: syrym.cappelo@gmail.com
 - ⚡ Fun fact: I love chess ♟ and other elegant stuff ✨
