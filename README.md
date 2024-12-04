@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JAVA/SPRING FRAMEWORK 
 - 🌱 I’m currently learning EVERYTHING 
-- 👯 I’m looking to collaborate on DEEP LEARNING AND AI-ENGINEERING/ROBOTICS 🤖 
+- 👯  I’m looking to collaborate on LLMs, OPEN SOURCE AI PROJECTS🤖
 - 💬 Ask me about PHILOSOPHY📚, PSYCHOLOGY🧠, PHYSICS⚛ 
 - 📫 How to reach me: syrym.cappelo@gmail.com 📧
 - ⚡ Fun fact: I love chess ♟ and other elegant stuff ✨
